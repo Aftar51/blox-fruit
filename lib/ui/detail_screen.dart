@@ -21,16 +21,18 @@ class DetailScreen extends StatelessWidget {
           children: [
             Container(
               decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(10),
-                color: Colors.black
+                borderRadius: BorderRadius.circular(5),
+                color: Colors.black,
               ),
-            ),
-            Text(
-              fruit.nama,
-              style: TextStyle(
-                fontWeight: FontWeight.bold,
-                fontSize: 20,
-                letterSpacing: 2,
+              child: Container(
+                child: Text(
+                  fruit.nama,
+                  style: TextStyle(
+                      fontWeight: FontWeight.bold,
+                      fontSize: 20,
+                      letterSpacing: 2,
+                      color: Colors.white),
+                ),
               ),
             ),
             SizedBox(

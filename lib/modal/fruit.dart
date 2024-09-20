@@ -49,7 +49,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/25/Rocket_X.gif/revision/latest?cb=20240330220503',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/13/Rocket_C.gif/revision/latest?cb=20240330220502',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a6/Rocket_F.gif/revision/latest?cb=20240330220504',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Spin (V)
   Fruit(
@@ -70,7 +71,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/55/SpinX_rework.gif/revision/latest?cb=20231031172622',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/62/SpinC_rework.gif/revision/latest?cb=20231031173141',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2f/SpinF_rework.gif/revision/latest?cb=20231031173618',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Chop (V)
   Fruit(
@@ -91,7 +93,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/Dance.gif/revision/latest?cb=20220912030918',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9e/Party.gif/revision/latest?cb=20220912030934',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2a/Helicopter.gif/revision/latest?cb=20220912030951',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Spring (V)
   Fruit(
@@ -113,7 +116,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f7/SpringCannon.gif/revision/latest?cb=20220912034022',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/29/SpringEmperor.gif/revision/latest?cb=20220912033922',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4e/SpringLeap.gif/revision/latest?cb=20220912033943',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Bomb (V)
   Fruit(
@@ -135,7 +139,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3d/Bomb_C.gif/revision/latest?cb=20230620155012',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/49/Bomb_V.gif/revision/latest?cb=20230620155103',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/aa/Bomb_F.gif/revision/latest?cb=20230620155146',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Smoke (V)
   Fruit(
@@ -156,7 +161,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e0/SmokeX.gif/revision/latest?cb=20230521140549',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/08/SmokeC.gif/revision/latest?cb=20230521140546',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/aa/SmokeF.gif/revision/latest?cb=20230521140557 ',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Spike (V)
   Fruit(
@@ -177,7 +183,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ee/SpikeWhirlwind.gif/revision/latest?cb=20220912051955',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/64/SpikyBall.gif/revision/latest?cb=20220912052014',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1f/SpikeBarrage.gif/revision/latest?cb=20220912052026',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Flame (V)
   Fruit(
@@ -194,12 +201,19 @@ var bloxFruitList = [
     description2:
         'Flame is generally seen as an overall good fruit, due to its Elemental Reflex passive and great AoE making it a great choice for PvP due to its high range, good damage, and ability to break Instinct. Overall, it is a good pick for grinding in First Sea and early Second Sea, and remains viable for PvP in every sea.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fc/FireBullets.gif/revision/latest?cb=20240114030335',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/68/BurningBlast.gif/revision/latest?cb=20240114030415',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e5/FireColumn.gif/revision/latest?cb=20240114030420',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/05/Flamedestroyer.gif/revision/latest?cb=20240114030503',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5a/FireFlight.gif/revision/latest?cb=20240114030449',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/93/FlameAwkZ.gif/revision/latest?cb=20230606141835',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/FlameAwkX.gif/revision/latest?cb=20230606141912',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d5/FlameAwkC.gif/revision/latest?cb=20230606141939',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/50/FlameAwk_V.gif/revision/latest?cb=20230606141947',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9e/Flawk-f.gif/revision/latest?cb=20240114031139',
-    ], imageUrl2: [],
+    ],
   ),
   // Falcon (V)
   Fruit(
@@ -221,7 +235,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/86/Falcon_skill_c.gif/revision/latest?cb=20240119095404',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a1/Falcon_skill_v.gif/revision/latest?cb=20240119095417',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Falcon_skill_f.gif/revision/latest?cb=20240119095428',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Ice (V)
   Fruit(
@@ -238,12 +253,18 @@ var bloxFruitList = [
     description2:
         'Ice is famously known for its great abilities and capacity for Bounty Hunting, grinding, great stuns, moderate damage, and its passive Frost Walker. Ice is an ideal fruit for new bounty hunters as the stuns are easy to land, which can trap players in an inescapable combos (meaning they can’t Instinct dodge it), it can also counter fruits like Buddha, because of the long and big AoE that the stuns bring. This fruit also has M1s (left-clicks), making it a lot easier to grind in the First Sea and early Second Sea.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fc/IceZ.gif/revision/latest?cb=20240321105647',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1c/IceX.gif/revision/latest?cb=20220912054030',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/21/IceC.gif/revision/latest?cb=20220912054210',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/20/IceV.gif/revision/latest?cb=20220912054227',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/26/Cold-Storm.gif/revision/latest?cb=20230521143027',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d7/Glacial-Surge.gif/revision/latest?cb=20230521143033',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4d/Frozen-Dragon.gif/revision/latest?cb=20230521143042',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/63/Absolute-Zero.gif/revision/latest?cb=20230521143049',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/3/30/Ice-Skating.gif/revision/latest?cb=20230521143057',
-    ], imageUrl2: [],
+    ],
   ),
   // Sand (V)
   Fruit(
@@ -260,12 +281,19 @@ var bloxFruitList = [
     description2:
         'The unawakened version of Sand is not very good for PvP, but can be decent for grinding since it is an Elemental fruit. However, the awakened version of Sand excels in the moves’ hitboxes, damage, speed, stun, and versatility. Overall, it’s an amazing fruit for PvP and bounty hunting when awakened, and it decent for grinding despite its low price.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/aa/SandV1Z.gif/revision/latest?cb=20240218115821',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cb/SandV1X.gif/revision/latest?cb=20240218120043',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/81/SandV1C.gif/revision/latest?cb=20240218120113',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/41/SandV1V.gif/revision/latest?cb=20240218120151',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/69/SandV1F.gif/revision/latest?cb=20240218121054  ',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7b/SandyZ.gif/revision/latest?cb=20230512153538',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0a/SandyX.gif/revision/latest?cb=20230512153600',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/83/SandyC.gif/revision/latest?cb=20230512153619',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0d/SandyV.gif/revision/latest?cb=20230512153647',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f9/SandV2F.gif/revision/latest?cb=20220802090947',
-    ], imageUrl2: [],
+    ],
   ),
   // Dark (V)
   Fruit(
@@ -282,12 +310,18 @@ var bloxFruitList = [
     description2:
         'Dark is considered a great Blox Fruit for PvP when awakened due to its long stuns and teleport move, allowing the ease of Sword and Gun combos if they are fully invested in it instead of Blox Fruit.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/61/DarkRocks.gif/revision/latest?cb=20220912060138',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f4/BlackSpiral.gif/revision/latest?cb=20220912060203',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d1/BlackHole.gif/revision/latest?cb=20220912060227',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3a/DarkBomb.gif/revision/latest?cb=20220912060252',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/08/DimensionalSlash.gif/revision/latest?cb=20230128060928',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/06/AbyssalDarkness.gif/revision/latest?cb=20230128061945',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d4/EndlessHole.gif/revision/latest?cb=20230128062929',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5a/WorldofDarkness.gif/revision/latest?cb=20230128063823',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b0/GhastlyStep.gif/revision/latest?cb=20230128064655',
-    ], imageUrl2: [],
+    ],
   ),
   // Diamond (V)
   Fruit(
@@ -308,7 +342,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/bd/Diamond_skill_x.gif/revision/latest?cb=20240120115408',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/05/Diamond_skill_c.gif/revision/latest?cb=20240120115420',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/3/33/Diamond_skill_v.gif/revision/latest?cb=20240120115432',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Light (V)
   Fruit(
@@ -325,12 +360,19 @@ var bloxFruitList = [
     description2:
         'Light is considered to be one of the best grinding fruits in First Sea since it is an Elemental Blox Fruit and has AoE moves, decent damage, relatively low mastery requirements, M1s, and one of the fastest movement abilities in the game. However, awakened Buddha or awakened Magma are more recommended in the Second Sea and Third Sea, unless the player is experienced with grinding and can awaken this fruit, due to the high level requirements in order to activate Elemental immunity. Its Awakened version is a great choice for PvP due to its good stuns, decent range, good combo potential, and high damage.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e5/LightZ.gif/revision/latest?cb=20230522130853',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e0/LightX.gif/revision/latest?cb=20230522130844',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/06/LightC.gif/revision/latest?cb=20230522131058',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8b/LightV.gif/revision/latest?cb=20230522131314',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/04/LightF.gif/revision/latest?cb=20230522131640',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/88/LightV2Z.gif/revision/latest?cb=20240320093156',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2c/LightV2X.gif/revision/latest?cb=20240320093337',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/19/LightV2C.gif/revision/latest?cb=20240103162002',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/3/30/LightV2V.gif/revision/latest?cb=20230522113658',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0d/LightV2F.gif/revision/latest?cb=20240320093024',
-    ], imageUrl2: [],
+    ],
   ),
   // Rubber (V)
   Fruit(
@@ -353,7 +395,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f7/RubberT_-_Rush.gif/revision/latest?cb=20230710205714',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3c/Rubber_-_Transformation.gif/revision/latest?cb=20230710195255',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8a/RubberT_-_Slingshot.gif/revision/latest?cb=20230710211416',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Barrier (V)
   Fruit(
@@ -375,7 +418,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3e/Barrier_C.gif/revision/latest?cb=20240120121857',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cf/Barrier_V.gif/revision/latest?cb=20240120121907',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/Barrier_F.gif/revision/latest?cb=20240120121927',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Ghost (V)
   Fruit(
@@ -397,7 +441,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/7/78/Ghost_C.gif/revision/latest?cb=20231104000346',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/60/GhostV.gif/revision/latest?cb=20231103125807',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Ghost_F.gif/revision/latest?cb=20231104000445',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Magma (V)
   Fruit(
@@ -414,13 +459,19 @@ var bloxFruitList = [
     description2:
         'Magma is known for its high damage output, which means it is considered one of the best Blox Fruits for Sea Events and grinding due to the water walking passive when the player awakens at least one move, and the high damage over time, plus the extremely low cooldown for [Z] Magma Shower. It does require much mastery, meaning First Sea players can grind with the unawakened version of it easily. It is also good for Second Sea and Third Sea as it is excellent for Sea Events like the Leviathan, Sea Beast and Ship Raids. Being the highest damaging fruit allows it to be able to solo easy raids like Flame, Dark, and others. This fruit is currently the most expensive rare fruit in the game.',
     imageUrl: [
-      '',
-      '',
-      '',
-      '',
-      '',
-      '',
-    ], imageUrl2: [],
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e9/MagmaFist.gif/revision/latest?cb=20220913210516',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ee/MagmaColumn.gif/revision/latest?cb=20220913033656',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/MagmaWolf.gif/revision/latest?cb=20220913033609',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0a/MagmaMeteors.gif/revision/latest?cb=20220913205207 ',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/13/MagmaFlight.gif/revision/latest?cb=20220913033528',
+    ],
+    imageUrl2: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/86/MagmaZ.gif/revision/latest?cb=20230512162106',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a0/MagmaX.gif/revision/latest?cb=20230512162137',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a5/MagmaC.gif/revision/latest?cb=20230512162147',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9a/MagmaV.gif/revision/latest?cb=20230512162204',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f0/MagmaFdlight.gif/revision/latest?cb=20230512162342',
+    ],
   ),
   // Quake (V)
   Fruit(
@@ -437,11 +488,17 @@ var bloxFruitList = [
     description2:
         'Quake allows the user to create powerful shortwaves, which can travel through the air and inflict large amounts of damage. Quake is famous for its huge hitbox, drastic screen shake and stun from its V move. In addition, All of Awakened Quake moves break Instinct and do medium-high damage. Due to all these factors, Quake is an excellent fruit in PvP/Bounty hunting and boss fighting (when awakened).',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f3/QuakeV1Zmove.gif/revision/latest?cb=20240120131805',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fd/Quake_skill_c.gif/revision/latest?cb=20240120131817',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/23/QuakeV1C.gif/revision/latest?cb=20240120131827',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2b/Quake_skill_v.gif/revision/latest?cb=20240120131853',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/9c/Quake_awake_skill_z.gif/revision/latest?cb=20230114124457',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cd/Quake_awake_skill_x.gif/revision/latest?cb=20230114124458',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/29/Quake_awake_skill_c.gif/revision/latest?cb=20230114124501',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/24/Quake_awake_skill_v.gif/revision/latest?cb=20230114124504',
-    ], imageUrl2: [],
+    ],
   ),
   // Buddha (V)
   Fruit(
@@ -458,13 +515,18 @@ var bloxFruitList = [
     description2:
         'Buddha ability increases the user fighting style and sword M1/Melee range makes it one of the best fruits for Raids, PvP, and grinding, where users can use swords, fighting styles and guns when transformed, making the fruit particularly useful for players grinding on melee or sword combat. However, this leads to the drawback of Buddha users not using their moves and only utilizing M1s, making it easy to sky-camp and use ranged attacks to kill a Buddha user.',
     imageUrl: [
-      '',
-      '',
-      '',
-      '',
-      '',
-      '',
-    ], imageUrl2: [],
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a2/Transform.gif/revision/latest?cb=20230123125307',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/ba/Impact.gif/revision/latest?cb=20230123125335',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/92/Buddha-Leap.gif/revision/latest?cb=20230123125326',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/3/3b/Buddha-Explosion.gif/revision/latest?cb=20230123125331',
+    ],
+    imageUrl2: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d5/BuddhaZ.gif/revision/latest?cb=20231112081206',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ea/BuddhaX.gif/revision/latest?cb=20231112082009',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/56/Buddha_C.gif/revision/latest?cb=20240207140723',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/05/Buddha_V_%28awk%29.gif/revision/latest?cb=20240208023150',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/05/Awakened_Buddha_F.gif/revision/latest?cb=20220822102252',
+    ],
   ),
   // Love (V)
   Fruit(
@@ -486,7 +548,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ec/LoveC.gif/revision/latest?cb=20230411125245',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/97/LoveV.gif/revision/latest?cb=20230411125304',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/56/LoveF.gif/revision/latest?cb=20230411125322',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Spider (V)
   Fruit(
@@ -503,12 +566,19 @@ var bloxFruitList = [
     description2:
         'Spider is widely known for its capability in PvP. This fruit is not good for grinding as it lacks Elemental Reflex and its moves may be hard to hit. On the other hand, it is an excellent fruit for PvP when awakened due to its stuns, damage, and hitboxes. To take advantage of the fruit power, the player must be relatively skilled.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4d/Spider_Z.gif/revision/latest?cb=20240323122701',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2e/Spider_X.gif/revision/latest?cb=20240323122701',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d0/Spider_C.gif/revision/latest?cb=20240323122659',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e8/Spider_V.gif/revision/latest?cb=20240323122700',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ee/Spider_F.gif/revision/latest?cb=20240323122700',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c5/SpiderThermal.gif/revision/latest?cb=20240323131122',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/7/72/SpiderXSilk.gif/revision/latest?cb=20240323131124',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ee/SpiderCEternal.gif/revision/latest?cb=20240323131125',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b5/SpiderVHeavenly.gif/revision/latest?cb=20240323131129',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/60/Spider_Highway.gif/revision/latest?cb=20240323131132',
-    ], imageUrl2: [],
+    ],
   ),
   // Sound (V)
   Fruit(
@@ -530,7 +600,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/82/Sound_Tempo_C.gif/revision/latest?cb=20240414235221',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ea/Sound_Tempo_V.gif/revision/latest?cb=20240414235223',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/46/Sound_Tempo_F.gif/revision/latest?cb=20240414235223',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Phoenix (V)
   Fruit(
@@ -547,13 +618,19 @@ var bloxFruitList = [
     description2:
         'Phoenix can be used to heal or support allies along with the large AoE it brings. In addition, this is also the fruit that consumes the most energy. Phoenix is known to be decently good for sea events because of the awakened [F] move (Swift Flight), making the user able to fly and do small damage over time. Unawakened Phoenix is not recommended for sea events, as only the [Z] move and [C] move can damage them.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/22/UnawkPhoenixZ.gif/revision/latest?cb=20230301050947'
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c6/Phoenix_Transformed_X.gif/revision/latest?cb=20240330134740',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/12/Phoenix_Transformed_C.gif/revision/latest?cb=20240330134738',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/66/UnawkPhoenixV.gif/revision/latest?cb=20230301060616',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c2/Phoenix_V2_Transformed_M1.gif/revision/latest?cb=20240330121929',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7b/Phoenix_V2_Transformed_Z.gif/revision/latest?cb=20240330121930',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f8/Phoenix_V2_Transformed_X.gif/revision/latest?cb=20240330121930',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/89/Phoenix_V2_Transformed_C.gif/revision/latest?cb=20240330121928',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/7/76/AwkPhoenixV.gif/revision/latest?cb=20220312061245',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f8/Phoenix_V2_Transformed_F.gif/revision/latest?cb=20240330121930',
-    ], imageUrl2: [],
+    ],
   ),
   // Portal (V)
   Fruit(
@@ -577,7 +654,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a3/PortalVWOW.gif/revision/latest?cb=20221229023608',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7b/Dimensional_Rift.gif/revision/latest?cb=20240601165221',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/26/PortalFWOW.gif/revision/latest?cb=20221229023736',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Rumble (V)
   Fruit(
@@ -594,12 +672,19 @@ var bloxFruitList = [
     description2:
         'Rumble is known as a versatile Blox Fruit for PvP due to its stun, damage, combo potential and movement ability. It also considered a great fruit for grinding because of its Elemental Immunity. It is important to note that Rubber users are completely immune to Rumble.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e4/RumbleV1Z.gif/revision/latest?cb=20230502113237',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b7/RumbleV1X.gif/revision/latest?cb=20230502113305',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/1b/RumbleV1C.gif/revision/latest?cb=20230502113313',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c6/RumbleV1V.gif/revision/latest?cb=20230502113402',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/14/RumbleV1F.gif/revision/latest?cb=20230502113500',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4a/LightingBeast.gif/revision/latest?cb=20231204123559',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/53/ThunderStorm.gif/revision/latest?cb=20231204124001',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/92/SkyJudgement.gif/revision/latest?cb=20231204124439',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/85/ThunderballDestruction.gif/revision/latest?cb=20230501122411',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/80/ElectricFlash.gif/revision/latest?cb=20230501122649',
-    ], imageUrl2: [],
+    ],
   ),
   // Pain (V)
   Fruit(
@@ -621,7 +706,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/43/PawC.gif/revision/latest?cb=20220724062345',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b8/PawV.gif/revision/latest?cb=20220724062348',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a2/PawF.gif/revision/latest?cb=20220724062341',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Blizzard (V)
   Fruit(
@@ -643,7 +729,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/94/Blizzard_C.gif/revision/latest?cb=20230826142229',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5d/Blizzard_Domain.gif/revision/latest?cb=20221229080932',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a7/Blizzard_F_Showcase.gif/revision/latest?cb=20230826152104',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Gravity (V)
   Fruit(
@@ -665,7 +752,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/be/GravC.gif/revision/latest?cb=20230620061959',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2c/GravV.gif/revision/latest?cb=20230620150556',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/54/GravF.gif/revision/latest?cb=20230620062051',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Mammoth (V)
   Fruit(
@@ -682,13 +770,21 @@ var bloxFruitList = [
     description2:
         'Mammoth is a decent fruit for PvP, since it has a long movement ability when untransformed and an infinitely damaging move when in transformed mode, but it is advised to use other fruits to aid in combat cause of its slow movesets',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/62/Mammoth_Z.gif/revision/latest?cb=20240304231113',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fa/Mammoth_X.gif/revision/latest?cb=20240305201154',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e4/Mammoth_C.gif/revision/latest?cb=20240305201152',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/cc/Mammoth_V.gif/revision/latest?cb=20240304231115',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7c/Mammoth_FA.gif/revision/latest?cb=20240304231114',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5e/Mammoth_FB.gif/revision/latest?cb=20240304231115',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/48/Mammoth_Transformed_M1.gif/revision/latest?cb=20240305172846',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/67/Mammoth_Transformed_Z.gif/revision/latest?cb=20240304231254',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f3/Mammoth_Transformed_X.gif/revision/latest?cb=20240305201154',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/97/Mammoth_Transformed_C.gif/revision/latest?cb=20240305201154',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/67/Mammoth_Transformed_V.gif/revision/latest?cb=20240304231253',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6a/Mammoth_Transformed_F.gif/revision/latest?cb=20240305201153',
-    ], imageUrl2: [],
+    ],
   ),
   // T-Rex (V)
   Fruit(
@@ -705,13 +801,21 @@ var bloxFruitList = [
     description2:
         'T-Rex has a relatively high demand in trading for its good farming potential, an amazing PvP performance and M1 ability. Although there are no mastery requirements for the tap (M1) move, casual First and early Second Sea players will only have 1-2 skills unlocked due to this fruits high mastery levels. For that reason, it is recommended to eat after mid to late game.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b3/T-Rex_M1.gif/revision/latest?cb=20240319092928',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/T-Rex_Z.gif/revision/latest?cb=20240319092928',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/11/T-Rex_X.gif/revision/latest?cb=20240319104918',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b4/T-Rex_C.gif/revision/latest?cb=20240319092926',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d8/T-Rex_V.gif/revision/latest?cb=20240319092929',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/59/T-Rex_F.gif/revision/latest?cb=20240319092928',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c7/T-Rex_Transformed_M1.gif/revision/latest?cb=20240319113227',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/94/T-Rex_Transformed_Z.gif/revision/latest?cb=20240319113235',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/29/T-Rex_Transformed_X.gif/revision/latest?cb=20240319113245',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/a1/T-Rex_Transformed_C.gif/revision/latest?cb=20240319113256',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/fd/T-Rex_Transformed_V.gif/revision/latest?cb=20240319113304',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/13/T-Rex_Transformed_F.gif/revision/latest?cb=20240319113314',
-    ], imageUrl2: [],
+    ],
   ),
   // Dough (V)
   Fruit(
@@ -728,13 +832,20 @@ var bloxFruitList = [
     description2:
         'It is considered to be one of the hardest Blox Fruits to awaken but also one of the best by the community. Even though it is an Elemental-type Blox Fruit, it is not recommended to obtain (eat/buy) it in the First Sea and early Second Sea due to its high mastery requirements and most of the V1 moves being single-target.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/6/6d/Fried_Dough.gif/revision/latest?cb=20220920081821',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d6/Sticky_Dough.gif/revision/latest?cb=20220920082023',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d5/Carved_Dough.gif/revision/latest?cb=20220920082122',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/86/Restless_Dough_Barrage.gif/revision/latest?cb=20220920082205',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/de/Roller_Donut.gif/revision/latest?cb=20220920082300',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/4e/Dough_Punches.gif/revision/latest?cb=20220920082442',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0f/Missile_Jab.gif/revision/latest?cb=20220920082536',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/9/93/Dough_Pastry_River_Ground.gif/revision/latest?cb=20221129032253',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b7/Piercing_Clothesline.gif/revision/latest?cb=20231207153823',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/a/ac/Dough_Fist_Fusillade.gif/revision/latest?cb=20220920082749',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/46/Scorching_Donut.gif/revision/latest?cb=20220920082820',
-    ], imageUrl2: [],
+    ],
   ),
   // Shadow (V)
   Fruit(
@@ -756,7 +867,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/1/18/Nightmare_Leech.gif/revision/latest?cb=20220104132046',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/d2/Corvus_Torment.gif/revision/latest?cb=20220104133505',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/84/Umbrage.gif/revision/latest?cb=20220104133928',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Venom (V)
   Fruit(
@@ -773,12 +885,19 @@ var bloxFruitList = [
     description2:
         'Venom is considered one of the most powerful and potent fruits in the game due to its passive abilities, overall damage, ease of use, and its versatility when it comes to farming or PvP due to its transformation which when activated, deals high damage to all enemies in the users range. Although it has high mastery requirements, with 300 mastery being required to unlock the transformation, this fruit is decent in terms of grinding due to its [F] move.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/VenomZ.gif/revision/latest?cb=20220807024554',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/VenomZ.gif/revision/latest?cb=20220807024554',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/8c/VenomZ.gif/revision/latest?cb=20220807024554',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/4/41/VenomV.gif/revision/latest?cb=20240606171307',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/8/86/VenomF.gif/revision/latest?cb=20220807024552',
+    ],
+    imageUrl2: [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/0e/VenomTransZ.gif/revision/latest?cb=20220807024552',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f0/VenomTransX.gif/revision/latest?cb=20220807024550',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5b/VenomTransC.gif/revision/latest?cb=20220807024552',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/b/b6/VenomTransV.gif/revision/latest?cb=20231213210623',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/20/VenomTransF.gif/revision/latest?cb=20220807024547',
-    ], imageUrl2: [],
+    ],
   ),
   // Control (V)
   Fruit(
@@ -800,7 +919,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f3/Control_CB.gif/revision/latest?cb=20240320181351',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/ec/Control_VB.gif/revision/latest?cb=20240320181351',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/3/37/Control_F.gif/revision/latest?cb=20240320181350',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Spirit (V)
   Fruit(
@@ -822,7 +942,8 @@ var bloxFruitList = [
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/f/f7/Spirit_C.gif/revision/latest?cb=20240322211433',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c9/Spirit_V.gif/revision/latest?cb=20240322211436',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/e/e6/Spirit_FB.gif/revision/latest?cb=20240322211435',
-    ], imageUrl2: [],
+    ],
+    imageUrl2: [],
   ),
   // Dragon (V)
   Fruit(
@@ -839,14 +960,18 @@ var bloxFruitList = [
     description2:
         'This Blox Fruit has a transformed mode that enhances its attacks, similar to Awakened Phoenix, although its attacks are available to the player even when not transformed, unlike Buddha, Falcon and Diamond.',
     imageUrl: [
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c4/DragonZ.gif/revision/latest?cb=20230508140403',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/c/c6/DragonX.gif/revision/latest?cb=20230508140424',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/29/DragonC.gif/revision/latest?cb=20230508140555',
       'https://static.wikia.nocookie.net/roblox-blox-piece/images/5/5e/DragonV.gif/revision/latest?cb=20230509024657',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/7/7d/Dragonflight.gif/revision/latest?cb=20231008200735',
     ],
     imageUrl2: [
-
-    'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2e/DragonZTransform.gif/revision/latest?cb=20230509121331',
-    'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/db/DragonXTransform.gif/revision/latest?cb=20230509131700',
-    'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/dd/DragonCTransform.gif/revision/latest?cb=20230509120438',
-  ],
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/2/2e/DragonZTransform.gif/revision/latest?cb=20230509121331',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/db/DragonXTransform.gif/revision/latest?cb=20230509131700',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/d/dd/DragonCTransform.gif/revision/latest?cb=20230509120438',
+      'https://static.wikia.nocookie.net/roblox-blox-piece/images/0/09/DragonVRevert.gif/revision/latest?cb=20230509115844',
+    ],
   ),
   // Leopard (V)
   Fruit(
